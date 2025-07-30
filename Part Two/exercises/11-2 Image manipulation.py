@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 
 # Load the original Lenna image
-lenna_image = mpimg.imread('lenna.bmp')
+lenna_image = mpimg.imread('\Users\risha\gitclones\ROAR-Academy\Part Two\notebooks\lenna.bmp')
 
 # Load your national flag image
 flag_image = mpimg.imread('images.png')
